@@ -32,6 +32,15 @@ body {
     flex-direction: column;
 }
 
+.attribution {
+    margin-top: 1rem;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: var(--cobalt-blue);
+}
+
 @media screen and (min-width: 620px) {
     body {
         justify-content: center;
